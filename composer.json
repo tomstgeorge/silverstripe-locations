@@ -17,7 +17,7 @@
     ],
     "require": {
         "dynamic/silverstripe-geocoder": "^3.0 || dev-master",
-        "silverstripe/linkfield": "^4.0",
+        "silverstripe/linkfield": "^5.0",
         "silverstripe/recipe-cms": "^5.0 || ^6.0",
         "silverstripe/tagfield": "^3.0 || ^4.0"
     },
